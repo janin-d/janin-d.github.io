@@ -20,7 +20,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 function sendReadEvent(title, readTime, author) {
     gtag('event', 'read_article', {
         "author": author,
-        "title": title,
+        "article_title": title,
         "read_time": readTime,
     });
 }
