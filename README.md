@@ -9,3 +9,5 @@ To find out about the theme [Click on this](/theme)
 [Articles](/articles)
 
 [Thanks](/thank-you)
+
+[Purchase](/purchase-complete)
